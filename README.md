@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Well Versed in building in Full Stack and ML Assisted Data Analysis. Currently in my penultimate year at Thapar Institute of Engineering and Technology. I love solving LeetCodes in my free time. CGPA: 8.7
+Well Versed in building in Full Stack and ML Assisted Data Analysis. Currently in my penultimate year. I love solving LeetCodes in my free time. CGPA: 8.7
 
 🔭 &nbsp;I'm currently working on **A reading assessment app for kids to improve English enunciation skills**  
 🌱 &nbsp;I'm currently learning **GenAI, Java-Springboot**  
